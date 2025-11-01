@@ -14,7 +14,8 @@
 ---
 
 ### 📫 Connect with Me  
-- 🌐 [LinkedIn](www.linkedin.com/in/krinjal-matekar-1bb9b4320 )  
+- 🌐 [LinkedIn](www.linkedin.com/in/
+krinjal-matekar-1bb9b4320)  
 - 💻 [GitHub]((https://github.com/iamkrinjal/Github)
 - ✉️ Email: krinjalmatekar@gmail.com 
 
