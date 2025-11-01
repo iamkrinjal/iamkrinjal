@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Krinjal V. Matekar  
 
-<!--
-**iamkrinjal/iamkrinjal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌥️ A passionate Cloud & DevOps Enthusiast from India  
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=krinjalmatekar&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📘 About Me  
+- 🎓 Completed **Bachelor of Computer Science (BCS)**  
+- ☁️ Currently learning **AWS & DevOps** tools  
+- 💡 Passionate about building **scalable cloud solutions**  
+- 🧩 Exploring **Terraform**, **Docker**, and **Jenkins**  
+
+---
+
+### 📫 Connect with Me  
+- 🌐 [LinkedIn](www.linkedin.com/in/krinjal-matekar-1bb9b4320 )  
+- 💻 [GitHub]((https://github.com/iamkrinjal/Github)
+- ✉️ Email: krinjalmatekar@gmail.com 
+
+---
+
+⭐ *“Keep learning, keep building!”*
