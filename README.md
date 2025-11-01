@@ -1,4 +1,4 @@
-# Hi 👋, I'm Krinjal V. Matekar  
+# Hi 👋, I'm Krinjal 
 
 ### 🌥️ A passionate Cloud & DevOps Enthusiast from India  
 
