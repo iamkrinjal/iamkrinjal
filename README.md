@@ -52,21 +52,10 @@ programming, cloud computing, and DevOps practices.I have hands-on experience wi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkrinjal&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🔥 GitHub Streak
-
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkrinjal&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/iamkrinjal/iamkrinjal/output/github-contribution-grid-snake.svg" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamkrinjal&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkrinjal&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkrinjal&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-
 
 ⭐ *“Keep learning, keep building!”*
 
