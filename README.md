@@ -12,11 +12,8 @@
 - 🧩 Exploring **Terraform**, **Docker**, and **Jenkins**  
 
     I am a passionate **Cloud / DevOps Engineer** with a solid foundation in  
-programming, cloud computing, and DevOps practices.  
-    I have hands-on experience with **AWS services**, **CI/CD pipelines**,  
-**Docker**, **Linux**, and **infrastructure automation**.  
-    I enjoy building scalable, cloud-native applications and continuously  
-learning new technologies in the DevOps ecosystem.
+programming, cloud computing, and DevOps practices.I have hands-on experience with **AWS services**, **CI/CD pipelines**,  
+**Docker**, **Linux**, and **infrastructure automation**. I enjoy building scalable, cloud-native applications and continuously learning new technologies in the DevOps ecosystem.
 
 ---
 
