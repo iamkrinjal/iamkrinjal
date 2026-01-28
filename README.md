@@ -48,7 +48,7 @@ programming, cloud computing, and DevOps practices.I have hands-on experience wi
 </p>
 
 >
-## 🔥 Random Dev Quote
+## 
 
 <p align="center">
   <i>
