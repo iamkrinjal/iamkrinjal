@@ -52,10 +52,6 @@ programming, cloud computing, and DevOps practices.I have hands-on experience wi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkrinjal&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamkrinjal&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkrinjal&theme=tokyonight" height="170"/>
-</p>
 
 
 ⭐ *“Keep learning, keep building!”*
