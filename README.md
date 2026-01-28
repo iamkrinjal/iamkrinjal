@@ -20,20 +20,18 @@ programming, cloud computing, and DevOps practices.I have hands-on experience wi
 ### 📫 Connect with Me  
 - 🌐 LinkedIn: www.linkedin.com/in/krinjal-matekar-1bb9b4320 
 - 💻 [GitHub] :(https://github.com/iamkrinjal/Github)  
-- ✉️ Email: krinjalmatekar@gmail.com 
+- ✉️ Email: krinjalmatekar2004@gmail.com 
 
 ----
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
-
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge)
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ---
@@ -50,6 +48,15 @@ programming, cloud computing, and DevOps practices.I have hands-on experience wi
 </p>
 
 >
+## 🔥 Random Dev Quote
 
-⭐ *“Keep learning, keep building!”*
+<p align="center">
+  <i>
+    “Walking on water and developing software from a specification are easy if both are frozen.”
+  </i>
+</p>
+
+<p align="center">
+  — Edward V. Berard
+</p>
 
