@@ -1,6 +1,6 @@
 # Hello 👋 I'm Krinjal  
 
-###  Entry - Level Cloud Engineer - AWS & Cloud Enthusiast  
+###   Cloud & DevOps Enginner  
 
 ![Profile views](https://komarev.com/ghpvc/?username=krinjalmatekar&label=Profile%20views&color=0e75b6&style=flat)
 
